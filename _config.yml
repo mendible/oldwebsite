@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ariana Mendible"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "4th year PhD student in Mechanical Engineering at the University of Washington, with work in reduced order models for systems with symmetry."
   location         : "Seattle, WA"
   employer         :
