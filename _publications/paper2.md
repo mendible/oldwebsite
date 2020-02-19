@@ -8,6 +8,7 @@ paperurl: 'mendible.github.io/files/c9py01875a.pdf'
 citation: 'Schwartz J, Behrou R, Cao B, Bassford M, Mendible A, Shaeffer C, Boydston A, Boechler N. 
            "Reduced Strain Mechanochemical Activation Onset in Microstructured Materials." Polymer Chemistry (2020).'
 ---
+
 ## Abstract
 ---
 In this study, we show that mechanochemical activation in responsive
