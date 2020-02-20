@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "[CV](mendible.github.io/files/Mendible_CV.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
