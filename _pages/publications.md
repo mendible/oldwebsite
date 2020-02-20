@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: splash
 title: "Publications"
 permalink: /publications/
 author_profile: true
