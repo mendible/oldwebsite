@@ -1,5 +1,6 @@
 ---
-title: "Test Accounts: An Introduction"
+title: "Reduced strain mechanochemical activation onset
+in microstructured materials"
 collection: publications
 permalink: /publications/2020-01-06-polymer-chemistry
 venue: "Polymer Chemistry"
