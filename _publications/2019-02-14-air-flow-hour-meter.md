@@ -1,5 +1,5 @@
 ---
-title: "Air flow hour meter"
+title: "Air flow hour meter (pending)"
 collection: publications
 permalink: /publications/2019-02-14-air-flow-hour-meter
 venue: "U.S. Patent Application"
