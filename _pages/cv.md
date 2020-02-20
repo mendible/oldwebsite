@@ -22,17 +22,17 @@ Education
 Work experience
 ======
 * Summer 2016: Intern at Clear Motion (previously Levant Power), Woburn, MA
-  * Worked with the Controls Team to develop Simulink controllers for novel actively-controlled vehicle damper system
-  *Developed MATLAB codes to streamline experimental test setup and daily tasks for Controls Team
+	* Worked with the Controls Team to develop Simulink controllers for novel actively-controlled vehicle damper system
+	* Developed MATLAB codes to streamline experimental test setup and daily tasks for Controls Team
 
 * Summer 2015: Science Undergraduate Laboratory Internship at National Renewable Energy Laboratory, Boulder, CO
-	*Developed two wave prediction methods in MATLAB for improving wave energy converter controls in collaboration with the Water Power Team
-	*Communicated results on the validity of the two models in technical paper and poster at SULI conference
+	* Developed two wave prediction methods in MATLAB for improving wave energy converter controls in collaboration with the Water Power Team
+	* Communicated results on the validity of the two models in technical paper and poster at SULI conference
 	
 * Summer 2014: REU at Oregon State University, OH Hinsdale Wave Research Laboratory, Corvallis, OR
-	*Worked in the Tsunami Wave Basin to study the interaction between marine infrastructure and tsunamis
-	*Applied flow visualization toolboxes in MATLAB to quantify tsunami-induced vortices
-	*Communicated results in a technical paper and poster presentation at the NEES REU Symposium
+	* Worked in the Tsunami Wave Basin to study the interaction between marine infrastructure and tsunamis
+	* Applied flow visualization toolboxes in MATLAB to quantify tsunami-induced vortices
+	* Communicated results in a technical paper and poster presentation at the NEES REU Symposium
  
 Skills
 ======
