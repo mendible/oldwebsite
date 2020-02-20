@@ -29,7 +29,7 @@ Work experience
 	*Developed two wave prediction methods in MATLAB for improving wave energy converter controls in collaboration with the Water Power Team
 	*Communicated results on the validity of the two models in technical paper and poster at SULI conference
 	
- *Summer 2014: REU at Oregon State University, OH Hinsdale Wave Research Laboratory, Corvallis, OR
+* Summer 2014: REU at Oregon State University, OH Hinsdale Wave Research Laboratory, Corvallis, OR
 	*Worked in the Tsunami Wave Basin to study the interaction between marine infrastructure and tsunamis
 	*Applied flow visualization toolboxes in MATLAB to quantify tsunami-induced vortices
 	*Communicated results in a technical paper and poster presentation at the NEES REU Symposium
