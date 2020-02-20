@@ -2,7 +2,7 @@
 title: "Randomized nonnegative matrix factorization"
 collection: publications
 permalink: /publication/2018-03-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work. toot toot'
+excerpt: 'NB Erichson, **A Mendible**, S Wihlborn, JN Kutz'
 date: 2018-03-01
 venue: 'Pattern Recognition Letters'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0167865518300138'
