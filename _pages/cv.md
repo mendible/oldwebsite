@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Research Interests 
+======
+Dynamical systems, modal decompositions, reduced-order modeling, transport-dominated phenomenon, traveling wave physics, machine learnings
 
 Education
 ======
@@ -33,12 +36,10 @@ Work experience
  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Software & Programming : MATLAB & Simulink, Python, some C++, COMSOL, Solidworks
+*Prototyping: Arduino, sensors, machine shop fabrication
+*Data Science: Unsupervised learning, regression, clustering, classification, optimization
+*Languages:  Intermediate-level formal written and spoken Spanish
 
 Publications
 ======
@@ -58,6 +59,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Outreach and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Engineering Discovery Days 2019
+	* Built a chaotic water wheel with live data acquisition to educate 4,500 grade-school students
+* Bike and Build, Drift West 2017
+	* Raised $3,000, completed 40 hours of service, and rode 1,000 miles for affordable housing cause
