@@ -8,7 +8,10 @@ venue: 'Pattern Recognition Letters'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0167865518300138'
 citation: 'Erichson, N. Benjamin, et al. "Randomized nonnegative matrix factorization." Pattern Recognition Letters 104 (2018): 1-7.'
 ---
-This paper is about the number 1. The number 2 is left for future work. beep beep
+
+
+## Abstract
+Nonnegative matrix factorization (NMF) is a powerful tool for data mining. However, the emergence of ‘big data’ has severely challenged our ability to compute this fundamental decomposition using deterministic algorithms. This paper presents a randomized hierarchical alternating least squares (HALS) algorithm to compute the NMF. By deriving a smaller matrix from the nonnegative input data, a more efficient nonnegative decomposition can be computed. Our algorithm scales to big data applications while attaining a near-optimal factorization, i.e., the algorithm scales with the target rank of the data rather than the ambient dimension of measurement space. The proposed algorithm is evaluated using synthetic and real world data and shows substantial speedups compared to deterministic HALS.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
