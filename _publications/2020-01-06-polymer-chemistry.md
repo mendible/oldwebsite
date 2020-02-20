@@ -13,4 +13,4 @@ citation: 'Schwartz, Johanna, et al. "Reduced Strain Mechanochemical Activation 
 ## Abstract
 In this study, we show that mechanochemical activation in responsive materials with designed, periodic microstructures can be achieved at lower applied strains than their bulk counterparts. Furthermore, by characterizing two responsive polymeric materials, we have developed a computational model capable of quantitatively predicting mechanochemical activation in geometrically complex structures.
 
-[Download paper here](http://academicpages.github.io/files/c9py01875a.pdf)
+[Download paper here](http://mendible.github.io/files/c9py01875a.pdf)
