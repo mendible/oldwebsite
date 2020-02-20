@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Seattle University, 2016
+* M.S. in Mechanical Engineering, University of Washington, 2018
+* Ph.D in in Mechanical Engineering, University of Washington, 2021 (expected)
+	* Advisors Dr. Steven Brunton (Mechanical Engineering) and Dr. J Nathan Kutz, (Applied Mathematics)
 
 Work experience
 ======
