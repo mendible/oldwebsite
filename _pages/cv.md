@@ -36,7 +36,7 @@ Work experience
  
 Skills
 ======
-* Software & Programming : MATLAB & Simulink, Python, some C++, COMSOL, Solidworks
+* Software & Programming: MATLAB & Simulink, Python, some C++, COMSOL, Solidworks
 * Prototyping: Arduino, sensors, machine shop fabrication
 * Data Science: Unsupervised learning, regression, clustering, classification, optimization
 * Languages:  Intermediate-level formal written and spoken Spanish
