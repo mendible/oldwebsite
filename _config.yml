@@ -311,3 +311,4 @@ compress_html:
     envs: development
 
 theme: minimal-mistakes-jekyll #jekyll-theme-minimal
+minimal_mistakes_skin: "contrast"
