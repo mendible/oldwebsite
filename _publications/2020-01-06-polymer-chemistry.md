@@ -7,7 +7,7 @@ venue: "Polymer Chemistry"
 excerpt: 'Schwartz J, Behrou R, Cao B, Bassford M, **Mendible A**, Shaeffer C, Boydston A, Boechler N. '
 date: 2020-01-06
 paperurl: http://academicpages.github.io/files/paper1.pdf
-citation: 'Account, T. (2009). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).'
+citation: 'Schwartz, Johanna, et al. "Reduced Strain Mechanochemical Activation Onset in Microstructured Materials." Polymer Chemistry (2020).'
 ---
 
 ## Abstract
