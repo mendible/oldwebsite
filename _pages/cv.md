@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-![](mendible.github.io/files/Mendible_CV-1.png =500x)
-![](mendible.github.io/files/Mendible_CV-2.png =500x)
-![](mendible.github.io/files/Mendible_CV-3.png =500x)
+<img src="/files/Mendible_CV-1.png" alt="" style="width:1700px;height:2200px;">
+
 
 
 Research Interests3
