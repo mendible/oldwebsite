@@ -9,11 +9,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "About Me"
-    url: /aboutme/
-
-  - title: "Guide"
-    url: /markdown/
-
   - title: ""
     url: /latest/

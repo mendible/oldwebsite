@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ariana Mendible / PhD Student"
 title_separator          : "-"
 name                     : &name "Ariana Mendible"
-description              : &description "4th year PhD student in Mechanical Engineering at the University of Washington"
+description              : &description "5th year PhD student in Mechanical Engineering at the University of Washington"
 url                      : https://mendible.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mendible/mendible.github.io"
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
