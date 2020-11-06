@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="files/Mendible_CV.pdf" width="500" height="375" 
+<embed src="mendible.github.io/files/Mendible_CV.pdf" width="500" height="375" 
 type="application/pdf">
 
 Research Interests 
