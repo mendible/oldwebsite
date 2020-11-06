@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="/files/Mendible_CV.png" type="application/png" width="100%"> 
-</object>
+![](files/Mendible_CV.png =500x)
 
-Research Interestsx
+
+Research Interestsd
 ======
 Dynamical systems, modal decompositions, reduced-order modeling, transport-dominated phenomenon, traveling wave physics, machine learning
 
