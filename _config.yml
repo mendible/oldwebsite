@@ -310,5 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-remote_theme: benbalter/retlab #jekyll-theme-midnight
-#minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "aqua"
