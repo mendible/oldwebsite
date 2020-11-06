@@ -1,5 +1,5 @@
 ---
-title: "Data-driven Modeling of Detonation Wave Interactions in Rotating Detonation Engines"
+title: "Data-driven Modeling of Detonation Wave Interactions in Rotating Detonation Engines (upcoming)"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-aps-fluids
