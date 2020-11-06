@@ -8,6 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<embed src="files/Mendible_CV.pdf" width="500" height="375" 
+type="application/pdf">
+
 Research Interests 
 ======
 Dynamical systems, modal decompositions, reduced-order modeling, transport-dominated phenomenon, traveling wave physics, machine learning
