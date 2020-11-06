@@ -61,15 +61,17 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-<!--- Teaching
+Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> --->
+  {% endfor %}</ul> 
   
 Outreach and Leadership
 ======
 * Engineering Discovery Days 2019
 	* Built a chaotic water wheel with live data acquisition to educate 4,500 grade-school students
 * Bike and Build, Drift West 2017
-	* Raised $3,000, completed 40 hours of service, and rode 1,000 miles for affordable housing cause -->
+	* Raised $3,000, completed 40 hours of service, and rode 1,000 miles for affordable housing cause 
+    
+    -->
