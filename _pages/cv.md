@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="mendible.github.io/files/Mendible_CV.pdf" type="application/pdf" width="100%"> 
-</object>
+<embed src="https://drive.google.com/file/d/1GzFXpcFGDZ5vBfMsYMbAGNAql0_iQaEi/view" width="500" height="375">
 
-Research Interests s
+Research Interestss
 ======
 Dynamical systems, modal decompositions, reduced-order modeling, transport-dominated phenomenon, traveling wave physics, machine learning
 
