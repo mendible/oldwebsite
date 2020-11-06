@@ -11,9 +11,9 @@ redirect_from:
 
 <img src="/files/Mendible_CV-1.png" alt="" style="width:850px;">
 <img src="/files/Mendible_CV-2.png" alt="" style="width:850px;">
+<img src="/files/Mendible_CV-3.png" alt="" style="width:850px;">
 
-
-Research Interests3
+<!--- Research Interests
 ======
 Dynamical systems, modal decompositions, reduced-order modeling, transport-dominated phenomenon, traveling wave physics, machine learning
 
@@ -72,4 +72,4 @@ Outreach and Leadership
 * Engineering Discovery Days 2019
 	* Built a chaotic water wheel with live data acquisition to educate 4,500 grade-school students
 * Bike and Build, Drift West 2017
-	* Raised $3,000, completed 40 hours of service, and rode 1,000 miles for affordable housing cause
+	* Raised $3,000, completed 40 hours of service, and rode 1,000 miles for affordable housing cause -->
