@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="/files/Mendible_CV-1.png" alt="" style="width:1700px;height:2200px;">
+<img src="/files/Mendible_CV-1.png" alt="" style="width:800px">
 
 
 
