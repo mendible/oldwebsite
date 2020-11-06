@@ -310,5 +310,5 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-midnight
+theme: minimal_mistakes_jekyll
 minimal_mistakes_skin: "air"
