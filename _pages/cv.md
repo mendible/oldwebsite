@@ -12,7 +12,7 @@ redirect_from:
 <object data="/files/Mendible_CV.pdf" type="application/pdf" width="100%"> 
 </object>
 
-Research Interests 
+Research Interests s
 ======
 Dynamical systems, modal decompositions, reduced-order modeling, transport-dominated phenomenon, traveling wave physics, machine learning
 
