@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<img src="/files/Mendible_CV-1.png" alt="" style="width:800px">
-
+<img src="/files/Mendible_CV-1.png" alt="" style="width:850px;">
+<img src="/files/Mendible_CV-2.png" alt="" style="width:850px;">
 
 
 Research Interests3
