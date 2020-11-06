@@ -219,7 +219,7 @@ defaults:
       share: true
       comments: true
   # _publications
-  - scope:/Users/arianamendible/Desktop/Mendible_CV.jpeg
+  - scope:
       path: ""
       type: publications
     values:
