@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="/files/Mendible_CV.pdf" type="application/pdf" width="100%"> 
+<object data="mendible.github.io/files/Mendible_CV.pdf" type="application/pdf" width="100%"> 
 </object>
 
 Research Interests s
