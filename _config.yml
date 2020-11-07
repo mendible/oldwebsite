@@ -13,7 +13,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ariana Mendible / PhD Student"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ariana Mendible"
 description              : &description "5th year PhD student in Mechanical Engineering at the University of Washington"
