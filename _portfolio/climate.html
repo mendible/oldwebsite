@@ -1,32 +1,23 @@
 ---
-title: "Williamstown, MA Police Response 2019"
-excerpt: "A simple visualization of the police responses in Williamstown, MA in 2019"
+title: "Climate Survey Responses"
+excerpt: "Responses from students on the climate in the Math departments"
 collection: portfolio
 ---
 
-The following visualization is the result of the weekend-long <a href="https://qsideinstitute.org/datathon4justice/">Datathon4Justice</a>, put on by QSIDE.
-Participants in my team were given PDF call logs of the police response. Together, we converted the PDFs into readable text, parsed the text into meaningful categories, and created this visualization to explore the trends in policing for this small town.
-
+These responses are shown to explore how gender affects perception of the math department climate. Click the legend in the gender plot to filter responses by gender, or click the response to see the gender breakdown of that response. Hold shift+click to select more than one and doubleclick anywhere in the plot to clear the selection.
 <br><br><br>
 
 <!DOCTYPE html>
 <html>
 <head>
-  <style>
-    .error {
-        color: red;
-    }
-  </style>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
-  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.22.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.2.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.21.0"></script>
 </head>
 <body>
-
-  <div id="vis"></div>
+  <div id="vis"/>
   <script>
-    (function(vegaEmbed) {
-      var spec = {
+    const spec = {
   "config": {
     "view": {"continuousWidth": 400, "continuousHeight": 300, "strokeWidth": 0},
     "axis": {"labelFontSize": 12, "titleFontSize": 12},
@@ -7665,38 +7656,7 @@ Participants in my team were given PDF call logs of the police response. Togethe
     ]
   }
 };
-
-      function showError(el, error){
-          el.innerHTML = ('<div class="error" style="color:red;">'
-                          + '<p>JavaScript Error: ' + error.message + '</p>'
-                          + "<p>This usually means there's a typo in your chart specification. "
-                          + "See the javascript console for the full traceback.</p>"
-                          + '</div>');
-          throw error;
-      }
-      const el = document.getElementById('vis');
-      vegaEmbed("#vis", spec, embedOpt)
-        .catch(error => showError(el, error));
-    })(vegaEmbed);
-
-  </script>
-</body>
-</html>5541, 42.6910802], [-73.1815012, 42.6910545], [-73.1814431, 42.6910172], [-73.1813737, 42.6910211], [-73.1813683, 42.6910487], [-73.1813144, 42.6910329], [-73.1812537, 42.6910097], [-73.1812126, 42.6910112], [-73.1812, 42.6910648], [-73.1811728, 42.6911085], [-73.1811334, 42.6911613], [-73.1810724, 42.6912079], [-73.1810152, 42.6912538], [-73.1809883, 42.6912683], [-73.1809213, 42.6912637], [-73.1808582, 42.691268], [-73.1808142, 42.6912812]]}, "st_name": "Burbank Trail", "road_type": "path", "oneway": 0, "bridge": 0, "max_speed": 0.0}, {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-73.1910244, 42.7096524], [-73.1911944, 42.7096346], [-73.1912247, 42.7096234], [-73.1914117, 42.7095543], [-73.1915751, 42.7094246], [-73.1918349, 42.7092509], [-73.1920444, 42.7090758], [-73.1922565, 42.7089175], [-73.192485, 42.708694], [-73.192597, 42.708605], [-73.1929073, 42.7083741], [-73.1929818, 42.7083186]]}, "st_name": "Linear Park", "road_type": "service", "oneway": 0, "bridge": 0, "max_speed": 0.0}, {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-73.1952922, 42.7101002], [-73.1951691, 42.7101778], [-73.19504, 42.7102567], [-73.1948631, 42.7103572], [-73.1947512, 42.7104085], [-73.1946539, 42.710378], [-73.1945119, 42.7103548], [-73.1943437, 42.7103709], [-73.1942056, 42.7104388], [-73.1940741, 42.7105189], [-73.1939039, 42.7106299], [-73.1937195, 42.7107502], [-73.1935719, 42.7108617], [-73.1934122, 42.7109455], [-73.1932471, 42.7110183], [-73.1931404, 42.7110451]]}, "st_name": "", "road_type": "path", "oneway": 0, "bridge": 0, "max_speed": 0.0}, {"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-73.18899, 42.71612], [-73.1888339, 42.7159627], [-73.1888467, 42.7158212], [-73.18885, 42.715633], [-73.1888215, 42.7155399], [-73.1888215, 42.7154006], [-73.1887926, 42.7152309], [-73.1887232, 42.7150411], [-73.1886773, 42.7149237], [-73.1886826, 42.7147845], [-73.1886824, 42.7145663], [-73.1886398, 42.7143843], [-73.1886109, 42.7141847], [-73.1886109, 42.7140554], [-73.1886302, 42.7138785], [-73.1887776, 42.7137782], [-73.1889491, 42.7136954], [-73.189139, 42.7136167], [-73.1893237, 42.7135359], [-73.1895391, 42.7134441], [-73.1896974, 42.7133691], [-73.1898862, 42.7132587], [-73.1900342, 42.7131459], [-73.1901878, 42.7130119], [-73.1903051, 42.7128267], [-73.190388, 42.7126524], [-73.1904398, 42.712528], [-73.1904947, 42.7123506], [-73.1905466, 42.7122985], [-73.1906824, 42.7121988], [-73.1908471, 42.7120872], [-73.1909789, 42.7119874], [-73.1911075, 42.711836], [-73.191265, 42.7117602], [-73.1914203, 42.7116423], [-73.1915268, 42.7115406], [-73.1916128, 42.7114095], [-73.1917688, 42.7112804], [-73.1919375, 42.7112129], [-73.1921412, 42.7111912], [-73.1923726, 42.711176], [-73.192541, 42.7111518], [-73.1926585, 42.7111324], [-73.1928784, 42.7111013], [-73.1931404, 42.7110451], [-73.1932081, 42.7111286], [-73.1932228, 42.7112304], [-73.193175, 42.711363]]}, "st_name": "Hoosic River Nature Trail", "road_type": "path", "oneway": 0, "bridge": 0, "max_speed": 0.0}]}};
-      var embedOpt = {"mode": "vega-lite"};
-
-      function showError(el, error){
-          el.innerHTML = ('<div class="error" style="color:red;">'
-                          + '<p>JavaScript Error: ' + error.message + '</p>'
-                          + "<p>This usually means there's a typo in your chart specification. "
-                          + "See the javascript console for the full traceback.</p>"
-                          + '</div>');
-          throw error;
-      }
-      const el = document.getElementById('vis');
-      vegaEmbed("#vis", spec, embedOpt)
-        .catch(error => showError(el, error));
-    })(vegaEmbed);
-
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
   </script>
 </body>
 </html>
