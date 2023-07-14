@@ -9,6 +9,6 @@ author_profile: true
 
 
 
-Email: mendible@uw.edu
+Email: mendible@seattleu.edu
 
 
