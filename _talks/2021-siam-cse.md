@@ -1,5 +1,5 @@
 ---
-title: "Data-driven Modeling of Shock Waves in Rotating Detonation Engines (invited, upcoming)."
+title: "Data-driven Modeling of Shock Waves in Rotating Detonation Engines"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-siam-cse
