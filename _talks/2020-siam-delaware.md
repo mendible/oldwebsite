@@ -1,5 +1,5 @@
 ---
-title: "Data-driven Decomposition for Traveling Waves (invited, upcoming)."
+title: "Data-driven Decomposition for Traveling Waves"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-siam-delaware
