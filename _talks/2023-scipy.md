@@ -8,4 +8,4 @@ date: 2023-07-14
 location: "Austin, TX"
 ---
 
-[Download slides here](files/SciPy_2023.pdf)
+[Download slides here](http://mendible.github.io/files/SciPy_2023.pdf)
