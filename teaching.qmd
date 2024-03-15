@@ -2,4 +2,14 @@
 title: "Teaching"
 ---
 
-About this site
+I teach a mix of data science and math courses Seattle University-- my main emphasis is in the MS Data Science program. In all my classes, I place a strong emphasis on critical thinking, applying knowledge to real-world problems, and communication skills. I wrote an [article in COMAP's GAIMME Time](https://www.comap.com/membership/member-resources/item/gaimme-time-getting-away-from-one-right-answer?highlight=WyJtZW5kaWJsZSJd) (Guidelines for Assessment and Instruction in Mathematical Modeling Education) column about these goals. 
+
+If you teach similar courses and would like to share resources and ideas, please get in touch!
+
+### Courses
+
+- DATA 5322: Statistical Machine Learning II
+- DATA 5901 & 5902: MSDS Capstone series
+- DATA 3310 & 5310: Data Visualization
+- MATH 1335: Calculus II (Integral Calculus)
+
