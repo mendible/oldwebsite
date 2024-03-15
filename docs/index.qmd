@@ -19,7 +19,7 @@ about:
           
           
 toc : false
-image: assets/img/profile_square.PNG
+image: assets/img/profile_square.png
 comments: false
 
 listing:
