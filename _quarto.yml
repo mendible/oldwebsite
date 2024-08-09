@@ -30,3 +30,4 @@ editor: visual
 
 resources:
   - CNAME
+  - custom.scss
