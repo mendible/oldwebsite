@@ -16,12 +16,17 @@ website:
        # - personal_projects.qmd
       - text: CV
         href: assets/files/mendible_cv.pdf
+    background: "#c0d6df"
+  favicon: assets/img/favicon.png
+
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, custom.scss]
     css: styles.css
     toc: true
 
 editor: visual
 
+resources:
+  - CNAME

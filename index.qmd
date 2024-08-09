@@ -19,7 +19,7 @@ about:
           
           
 toc : false
-image: assets/img/profile_square.PNG
+image: assets/img/profile_square2024.jpg
 comments: false
 
 listing:
@@ -33,7 +33,7 @@ listing:
 
 ### Bio
 
-I am an Assistant Professor of [Mathematics at Seattle University](https://www.seattleu.edu/scieng/math/), where I teach in our [MS Data Science ](https://www.seattleu.edu/scieng/math/msdatascience/) program and do research in quantitative justice. I co-lead the [Small Town Police Accountability Research Lab](https://qsideinstitute.org/stopa-lab/). Our aim is to democratize access to publicly available data. I received my PhD in Mechanical Engineering from the University of Washington, where I worked on reduced-order modeling for fluids systems with [Steve Brunton](https://www.eigensteve.com/) and [J Nathan Kutz](https://faculty.washington.edu/kutz/). 
+I am an Assistant Professor of [Mathematics at Seattle University](https://www.seattleu.edu/scieng/math/), where I teach in our [MS Data Science ](https://www.seattleu.edu/scieng/math/msdatascience/) program and do research in quantitative justice. I co-lead the [Data Science, Police Accountability, and Community Engagement (DSPACE) Research Lab](https://qsideinstitute.org/dspace-lab/). Our aim is to democratize access to publicly available data on policing. I received my PhD in Mechanical Engineering from the University of Washington, where I worked on reduced-order modeling for fluids systems with [Steve Brunton](https://www.eigensteve.com/) and [J Nathan Kutz](https://faculty.washington.edu/kutz/). 
 
 ### Latest
 

@@ -1,10 +1,11 @@
 ---
-title: "Small-Town Police Accountability: Challenges and Recommendations"
-authors: [Claire Kelling, Anna Haensch, Ariana Mendible, Spencer Brooks, Alex Wiedemann, Manuchehr Aminian, Wade Hasty, Jude Higdon]
-categories: [news, code, analysis]
-venue: "SocArxiv"
-year: "2023"
+title: "Data Collection and Analysis for Small-Town Policing: Challenges and Recommendations"
+authors: [Claire Kelling, Anna Haensch, Ariana Mendible, Spencer Brooks, Alexander Wiedemann, Manuchehr Aminian, Wade Hasty, Jude Higdon]
+categories: [news, code, ds4sj]
+venue: "Statistics and Public Policy"
+image: "statpp.jpg"
+year: "2024"
 priority: 1
-url: "https://osf.io/preprints/socarxiv/2gyuv"
+url: "https://www.tandfonline.com/doi/full/10.1080/2330443X.2024.2379270"
 page-layout: article
 ---
