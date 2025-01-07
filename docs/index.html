@@ -83,7 +83,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-date','listing-text',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
-      
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-text"],
     };
 
@@ -227,21 +228,26 @@ window.Quarto = {
 </colgroup>
 <tbody>
 <tr class="odd">
+<td class="month"><strong>January<br>
+2025</strong></td>
+<td class="news-item">I give a talk in the <a href="https://meetings.ams.org/math/jmm2025/meetingapp.cgi/Session/11995">NAM-SIAM-AMS Special Session on Quantitative Justice</a> at the Joint Mathematics Meetings in Seattle.</td>
+</tr>
+<tr class="even">
 <td class="month"><strong>December<br>
 2024</strong></td>
 <td class="news-item">Article: "<a href="http://digitaleditions.walsworthprintgroup.com/publication/?i=836749&amp;p=24&amp;view=issueViewer">Counting on Justice: Bridging Quantitative Research and Community Empowerment</a>" is published in <em>MAA Focus</em>.</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="month"><strong>September<br>
 2024</strong></td>
 <td class="news-item">In the fall of 2024, I was on sabbatical!</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td class="month"><strong>July<br>
 2024</strong></td>
 <td class="news-item">I wrote a blog post for <em>Math Values</em>: "<a href="https://www.mathvalues.org/masterblog/quantitative-justice-using-data-science-for-good/">Quantitative Justice: Using Data Science for Good</a>".</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td class="month"></td>
 <td class="news-item">Article: "<a href="https://www.tandfonline.com/doi/epdf/10.1080/2330443X.2024.2379270?needAccess=true">Data Collection and Analysis for Small-Town Policing: Challenges and Recommendations</a>" is published in <em>Statistics and Public Policy</em>.</td>
 </tr>
@@ -250,6 +256,9 @@ window.Quarto = {
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="news-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
 <p><a href="./news_archive.html"><em>Older news</em></a></p>
 
